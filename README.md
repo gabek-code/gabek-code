@@ -1,7 +1,7 @@
 ### Gabriel Kutuzov
 
-Here are some ideas to get you started:
 
+== A little summary of my work.. ==
 - 🔭 I’m currently working on my dream video game!
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on a project that will change the world.
