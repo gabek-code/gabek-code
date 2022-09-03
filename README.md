@@ -1,4 +1,4 @@
-### Hi! My name is Gabe 👋
+### Hi! My name is Gabe
 
 
 == A little summary of my work.. ==
